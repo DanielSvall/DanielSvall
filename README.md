@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DanielSvall
+- 👀 I’m interested in programming, gaming, and streaming on Twitch
+- 🌱 I’m currently learning web development (HTML, CSS, JavaScript) and improving my skills for Twitch streaming
+- 💞️ I’m looking to collaborate on web development projects and gaming streams
+- 📫 How to reach me: [My GitHub](https://github.com/DanielSvall) or 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing Tibia and sharing my gaming experiences on Twitch!
